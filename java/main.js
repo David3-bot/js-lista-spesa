@@ -4,7 +4,6 @@ let i = 0;
 while (i < listaEserciti.length, i++) {
     console.log(listaEserciti , i );
 
-    
 }
 
 document.getElementById("eserciti").innerHTML= listaEserciti
